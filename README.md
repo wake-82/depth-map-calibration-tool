@@ -1,5 +1,7 @@
 # Depth Map Calibration Tool
 
+<img src="preview.png" width="720">
+
 ## Overview
 Depth Map Calibration Tool is a freeware application developed by an individual,
 designed to assist with video processing and depth map calibration tasks.
