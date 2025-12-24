@@ -1,0 +1,36 @@
+################################
+# exe 전용 배포 저장소 기준
+################################
+
+# 자동 생성 설정 파일
+default_presets.json
+depth_engine_config.json
+user_presets.json
+
+# 사용자 데이터 / 출력물
+cache/
+preview/
+previews/
+output/
+outputs/
+render/
+renders/
+
+# 로그
+*.log
+
+# 개발 잔여물 (혹시 남아있을 경우 대비)
+*.py
+*.pyc
+__pycache__/
+venv/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
